@@ -5,12 +5,12 @@ Welcome to my website
 
 If you're here on this website, most likely here soon you're going to buy a watch. Don't worry. We are here to guide you. I've got an excellent checklist that covers everything you need to think about so that you buy the perfect watch for you.  
 
-#So first up, why do you want to own a watch nowadays? 
+# So first up, why do you want to own a watch nowadays? 
 
 ##Less convenient to see time in the smartphone
 Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.
  
-##Limited battery with the smartphone##
+## Limited battery with the smartphone##
 Do your smartphones often switch off in the field due to battery drain, and you don't have a track of time? You might need to keep a watch over the time when you are in the field? Watches can operate for long in the field. Some of the watches are self-powered or uses a small amount of energy to be functional for a long time. These watches can be functional for years.
  
 ##Distractions caused by smartphone##
