@@ -1,5 +1,7 @@
 # timenationpro
 
+click to [about us](aboutus.md)
+
 Welcome to my website
 
 
