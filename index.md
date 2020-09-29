@@ -11,9 +11,9 @@ If you're here on this website, most likely here soon you're going to buy a watc
 
 **Less convenient to see time in the smartphone**  
 
-Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.
+Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.  
  
-**Limited battery with the smartphone**
+**Limited battery with the smartphone**  
 
 Do your smartphones often switch off in the field due to battery drain, and you don't have a track of time? You might need to keep a watch over the time when you are in the field? Watches can operate for long in the field. Some of the watches are self-powered or uses a small amount of energy to be functional for a long time. These watches can be functional for years.
  
@@ -35,7 +35,7 @@ A wristwatch is considered more than being a time-keeper. They act as a symbol o
  
 **Missing Your Loved Ones**  
 
-Living through the memories of your loved ones is possible by wearing watches that belong to their era. Owning the watch of your loved ones makes you think of them even more.
+Living through the memories of your loved ones is possible by wearing watches that belong to their era. Owning the watch of your loved ones makes you think of them even more.  
  
 **Build your legacy**  
 
@@ -65,14 +65,14 @@ This guide is divided into 4 sections
 	5. Checklist to consider the parts of watch while trying out the watch at a retail store
 
 Try to come up with question to determine what type of watch are you going to buy.
-    • Are you going to buy a mechanical?
-    • Are you going to buy a quartz powered watch?
-    • Are you going to buy a smartwatch?
+    + Are you going to buy a mechanical?
+    + Are you going to buy a quartz powered watch?
+    + Are you going to buy a smartwatch?
 
 ## Types of watches
 Now let's talk about the type of watches based on
-	• Movement
-	• Style
+	+ Movement
+	+ Style
 
 Later on, we will talk about how to consider the individual parts of the watches while selecting a watch in later sections.
 
@@ -81,15 +81,17 @@ Later on, we will talk about how to consider the individual parts of the watches
 Watch movement is a factor that must be considered before buying a watch. There are many types of watch movements out there. So the movement is going to be the inner mechanism that is going on inside of the watch, which moves the hand. It's the most critical factor, and understanding it is essential.
 There are three types of watch movements.
 
-Mechanical	Automatic	Quartz
-Include images		
++ Mechanical
++ Automatic
++ Quartz
+
 
 **Mechanical**
 The movement of a mechanical watch controlled by a mainspring — a curled wire of metal — that is twisted by hand. When the mainspring is wound, it gradually and equally loosens up, making the second hand move in a smooth, clearing movement around the watch's face. Most mainsprings are known to be around 9 to 13 inches in length. If the mainspring is longer, your mechanical watch's capacity to reserve power is more, and the more you can go between windings.
 All the mechanical movements are not equivalent. The craftsmanship and attention to details that go into a watch will decide its smoothness and precision.
 Some enthusiasts prefer mechanical movement watches because of their love of tradition and the intricate craft and designing that is into making them. For these lovers, owning a mechanical watch isn't just about reading a clock; it's an approach to express their thankfulness for history, refinement, and craftsmanship.
 
-Pros of Mechanical Watches
+**Pros of Mechanical Watches**
 No battery required - Since a mechanical watch is controlled by a mainspring that is hand wound, you'll never need to go to a watch specialist to replace a battery. At the point when the watch quits ticking, simply it means time to wind it.
 Smooth hand movement - For certain people, a harmonious clearing movement on the second hand is more stylishly satisfying than the "tick" of quartz watches. On the off chance that that is imperative to you, go with a mechanical watch.
 Character - The building and work that goes into a mechanical watch are amazing. Inside your watchcase are minute spring and gears that work together to show you the time. Of course, nobody, for the most part, observes it, yet that is a piece of the appeal; a watchmaker has put in a long period consummating work that is not visible. If you acknowledge craftsmanship, consider adding a mechanical watches to your collection.
