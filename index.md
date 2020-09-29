@@ -14,33 +14,43 @@ If you're here on this website, most likely here soon you're going to buy a watc
 Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.
  
 **Limited battery with the smartphone**
+
 Do your smartphones often switch off in the field due to battery drain, and you don't have a track of time? You might need to keep a watch over the time when you are in the field? Watches can operate for long in the field. Some of the watches are self-powered or uses a small amount of energy to be functional for a long time. These watches can be functional for years.
  
-**Distractions caused by smartphone**
+**Distractions caused by smartphone**  
+
 Do you face this situation where you see the time in a smartphone but get carried away by checking out the notifications/apps on the smartphone. These distractions might hinder your work. You need to grab a good watch.
  
-**Require More Functionality**
+**Require More Functionality**  
+
 Do your watch does not have the functionality that you need for your profession/field? For example, a swimmer needs his watch to be waterproof for a considerable depth inside the water.
  
-**Lack of Respect/Style**
+**Lack of Respect/Style**  
+
 Do you feel that you are not respected much by others? Options of jewelry for men are quite less. Try wearing a luxury watch. Wearing luxury watches makes people around you respect you more. It gives a sense of pride for those who wear it and helps you talk with confidence with other people. The watches you wear express your sense of style. For example, a person wearing a pilot watch is known for his aspiration/personality of being a pilot that can earn respect for you. Guys can add interest to their outfit by wearing a watch. 
  
-**Appreciate Craftmanship**
+**Appreciate Craftmanship**  
+
 A wristwatch is considered more than being a time-keeper. They act as a symbol of art and tradition that is expressed in a showpiece by craftmanship. The dial can be a painting, or the design might be an act of pure artform. The movement can arouse fascination similar to what dial and case might express.
  
-**Missing Your Loved Ones**
+**Missing Your Loved Ones**  
+
 Living through the memories of your loved ones is possible by wearing watches that belong to their era. Owning the watch of your loved ones makes you think of them even more.
  
-**Build your legacy**
+**Build your legacy**  
+
 A watch collection can also be used to build your legacy. It need not be a mini treasure – but the watches you collect can be left to someone who you care. Its a sign of passing on values that were important to you. 
  
-**Confused about buying a gift**
+**Confused about buying a gift**  
+
 Watches are the best gifts anyone can choose for their loved ones. It makes your loved one remember you more.
 
-**Smart phones**
+**Smart phones**  
+
 But a lot of guys choose to own watches, and you usually have a reason you need to define that reason. Is it because of a need?
 
-**Identify the need to buy a watch!!**
+**Identify the need to buy a watch!!**  
+
 Maybe you're a professional you need something because you need to keep track of time very important, so you need a very functional, practical and a durable watch. Or maybe you need a watch that is going to look great.
 You're starting a new job, and you know watches send a message, or maybe you want to buy a piece. It's going to be an heirloom piece you're going to pass on to your son whatever it may be.
 Guys know why you're going to buy this watch.
@@ -190,7 +200,7 @@ Band: Usually Leather or metal.
 Complications: Chronograph and some of the time the date.
 When to Wear: Racing watches will, in general, be flashier looking than dive or pilot watches. Due to their intense look, they're more reasonable for casual wear than formal wear.
 
-Special features you are going to look for
+## Special features you are going to look for
 
 What specific features do you demand of your watch?
     • How much water resistance do the pressure release valve?
@@ -225,7 +235,7 @@ Some watches have a tachymeter paired with the chronograph. You can find the tac
 These are all things that once you put down what you need you're going to find several watches that you have to choose.
 But by doing that you've narrowed down the selection and becomes easier to find and identify your dream watch.
 
-Options while choosing your budget
+## Options while choosing your budget
 
 Old vs. New watch
 If you have decided to go for a new watch: You are bound to have no problem.
@@ -250,7 +260,7 @@ In case, if you are interested in watch flipping and making money: You need to b
 Checklist while buying
 Now we have a check list to consider while you are in the verge of buying a watch…Lets have a closer look at the individual parts.
 
-Picking the Right sized Watch For Your Hand Size
+## Picking the Right sized Watch For Your Hand Size
 You also need to consider how proportional the watch is to your hand and wrist.
 If it appears bigger for your wrist, it might look awkward and larger. If it is small, it may appear as if you are wearing a women's watch.
 Simple calculation
@@ -308,6 +318,6 @@ Where do you live
 Next, up Where do you live? Do you have access to high-end watches that you can try on? You can see what they look like on your wrist. If you live in New York, Chicago or over in Switzerland. It is good for you. You can walk into a lot of stores, and you can see what those watches look like on your wrist. And that's important, especially when you're spending a lot of money.
 So what do you do if you live in a small town? I know I've got this problem. So what I do is when I'm traveling I always make it a point to stop in and check out the stores in that city, so I'm Chicago. I have a store I go check out when I'm in London. I number of high stores to go check out. So you want to play a little bit of your travel. You want to find a way to get into those stores to try on the watches.
 
-Retail Vs. Online
+## Retail Vs. Online
 Next up, let's talk about how you're going to buy. So if you're going to buy directly from an authorized dealer or the manufacturer then that's great you're going to pay a higher price. But what you're going to get is satisfaction knowing you've got a warranty directly with them.
 Now there is the online market or gray markets. It is going to be Amazon or eBay or any other e-commerce site  who is not the manufacturer or an authorized dealer? The key thing here to understand is if you buy your watch from an authorized dealer, you can go directly to the manufacturer for your warranty. If you buy it through Amazon, you've got to go through Amazon for your warranty.
