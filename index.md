@@ -9,7 +9,8 @@ If you're here on this website, most likely here soon you're going to buy a watc
 
 ## So first up, why do you want to own a watch nowadays?
 
-**Less convenient to see time in the smartphone**
+**Less convenient to see time in the smartphone**  
+
 Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.
  
 **Limited battery with the smartphone**
