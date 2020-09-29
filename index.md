@@ -1,46 +1,45 @@
-# timenationpro
+[toc]
 
-click to [about us](aboutus.md)
+# Guide to Select the Best Watch
 
-Welcome to my website
-
+Welcome to my website **TimeNationPro.com**!!
 
 If you're here on this website, most likely here soon you're going to buy a watch. Don't worry. We are here to guide you. I've got an excellent checklist that covers everything you need to think about so that you buy the perfect watch for you.  
 
-## So first up, why do you want to own a watch nowadays?
+<u>**So first up, why do you want to own a watch nowadays?**</u>
 
 **Less convenient to see time in the smartphone**  
 
 Do you find it difficult to take your phone out and see time the time while driving or working. So you need to buy a watch to see the time as per your convenience and be more punctual.  
- 
+
 **Limited battery with the smartphone**  
 
-Do your smartphones often switch off in the field due to battery drain, and you don't have a track of time? You might need to keep a watch over the time when you are in the field? Watches can operate for long in the field. Some of the watches are self-powered or uses a small amount of energy to be functional for a long time. These watches can be functional for years.
- 
+Do your smartphones often switch off in the field due to battery drain, and you don't have a track of time? You might need to keep a watch over the time when you are in the field? Watches can operate for long in the field. Some of the watches are self-powered or uses a small amount of energy to be functional for a long time. These watches can be functional for years.  
+
 **Distractions caused by smartphone**  
 
-Do you face this situation where you see the time in a smartphone but get carried away by checking out the notifications/apps on the smartphone. These distractions might hinder your work. You need to grab a good watch.
- 
+Do you face this situation where you see the time in a smartphone but get carried away by checking out the notifications/apps on the smartphone. These distractions might hinder your work. You need to grab a good watch.  
+
 **Require More Functionality**  
 
-Do your watch does not have the functionality that you need for your profession/field? For example, a swimmer needs his watch to be waterproof for a considerable depth inside the water.
- 
+Do your watch does not have the functionality that you need for your profession/field? For example, a swimmer needs his watch to be waterproof for a considerable depth inside the water.  
+
 **Lack of Respect/Style**  
 
 Do you feel that you are not respected much by others? Options of jewelry for men are quite less. Try wearing a luxury watch. Wearing luxury watches makes people around you respect you more. It gives a sense of pride for those who wear it and helps you talk with confidence with other people. The watches you wear express your sense of style. For example, a person wearing a pilot watch is known for his aspiration/personality of being a pilot that can earn respect for you. Guys can add interest to their outfit by wearing a watch. 
- 
+
 **Appreciate Craftmanship**  
 
-A wristwatch is considered more than being a time-keeper. They act as a symbol of art and tradition that is expressed in a showpiece by craftmanship. The dial can be a painting, or the design might be an act of pure artform. The movement can arouse fascination similar to what dial and case might express.
- 
+A wristwatch is considered more than being a time-keeper. They act as a symbol of art and tradition that is expressed in a showpiece by craftmanship. The dial can be a painting, or the design might be an act of pure artform. The movement can arouse fascination similar to what dial and case might express.  
+
 **Missing Your Loved Ones**  
 
 Living through the memories of your loved ones is possible by wearing watches that belong to their era. Owning the watch of your loved ones makes you think of them even more.  
- 
+
 **Build your legacy**  
 
 A watch collection can also be used to build your legacy. It need not be a mini treasure – but the watches you collect can be left to someone who you care. Its a sign of passing on values that were important to you. 
- 
+
 **Confused about buying a gift**  
 
 Watches are the best gifts anyone can choose for their loved ones. It makes your loved one remember you more.
@@ -56,7 +55,6 @@ You're starting a new job, and you know watches send a message, or maybe you wan
 Guys know why you're going to buy this watch.
 
 This guide is divided into 4 sections  
-
 	1. Types of watches based on  
 
 		* movement and its pros & cons
@@ -68,13 +66,13 @@ This guide is divided into 4 sections
 
 Try to come up with question to determine what type of watch are you going to buy.
     + Are you going to buy a mechanical?
-    + Are you going to buy a quartz powered watch?
-    + Are you going to buy a smartwatch?
+        + Are you going to buy a quartz powered watch?
+        + Are you going to buy a smartwatch?
 
 ## Types of watches
 Now let's talk about the type of watches based on
-	+ Movement
-	+ Style
+	Movement
+	Style
 
 Later on, we will talk about how to consider the individual parts of the watches while selecting a watch in later sections.
 
@@ -160,7 +158,9 @@ Complications: Little to none. Probably, moon display in addition to date.
 When to Wear: As the name suggests, you wear a dress watch for dressier, increasingly formal events like with a matching suit or a tuxedo (however, there's discussion regarding whether you ought to ever wear a watch at all with dark tie). Be that as it may, you can likewise wear a dress watch with everything on down to sharp easygoing. It won't combine well with a shirt and pants.
 
 #### Field Watch
+
 History/Pedigree/Personality: The field watch is known to be the relative of the WWI "trench watch," which was intended for officers who expected to organize assaults, read a clock in the dark, and withstand the rigors of the fight, and also looking great. Field watches keep on displaying a military vibe and are rough, functional, and long lasting.
+
 Mark Features:
 Size: Small to medium. Huge watches would act as a burden while you're doing fight in the battle, or business.
 Face: Functional, simple to-peruse numerical lists — regularly a white dial and dark numbering, or a dark dial with white numbering. The hands-on field observes frequently light up to empower time checks around evening time.
@@ -177,7 +177,7 @@ During the 1950s, Rolex load up part René-Paul Jeanneret needed a watch that wo
 Mark Features: A dive watch is the most water-resistant among all the watches. Dive watches are known to be water resistant up to at any rate 100m. However, some continue working at even deeper depths.
 Since it's can be worn in the water, both the band and the case of dive watches are produced using least corrosive metals like titanium or steel. (You can also see some jump watches produced using silicone or elastic material, as well. But, they won't look as classic as the metal ones.)
 Size: Medium.
-Face: Typically easy-to-read and bold, Arabic numbering is used or sometimes replaced by hash marks. Hardened mineral glass or sapphire is used to protect the face in submerged water.
+**Face:** Typically easy-to-read and bold, Arabic numbering is used or sometimes replaced by hash marks. Hardened mineral glass or sapphire is used to protect the face in submerged water.
 Case: A characterizing highlight of the jump watch is the unidirectional bezel — which will only turn in a counter-clockwise direction. The bezel enables a jumper to know how long he remained submerged.
 Here's how it works: when the jumper intends to enters the water, he turns the bezel so that the zero marking on the bezel lines up with the minute hand. From that point, the minute hand can be used to shows the time he remained in the water.
 Band: Usually Metal. They usually are longer than other watches' bands, as it needs to fit around bulky diving equipment.
