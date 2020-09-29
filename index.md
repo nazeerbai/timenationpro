@@ -55,10 +55,12 @@ Maybe you're a professional you need something because you need to keep track of
 You're starting a new job, and you know watches send a message, or maybe you want to buy a piece. It's going to be an heirloom piece you're going to pass on to your son whatever it may be.
 Guys know why you're going to buy this watch.
 
-This guide is divided into 4 sections
-	1. Types of watches based on
-		a. movement and its pros & cons
-		b. Watch styles
+This guide is divided into 4 sections  
+
+	1. Types of watches based on  
+
+		* movement and its pros & cons
+		* Watch styles
 	2. Special features you are going to look
 	3. Options while choosing your budget for your watch
 	4. Checklist on finding the right size to your hand
@@ -86,23 +88,27 @@ There are three types of watch movements.
 + Quartz
 
 
-**Mechanical**
+#### Mechanical
 The movement of a mechanical watch controlled by a mainspring — a curled wire of metal — that is twisted by hand. When the mainspring is wound, it gradually and equally loosens up, making the second hand move in a smooth, clearing movement around the watch's face. Most mainsprings are known to be around 9 to 13 inches in length. If the mainspring is longer, your mechanical watch's capacity to reserve power is more, and the more you can go between windings.
 All the mechanical movements are not equivalent. The craftsmanship and attention to details that go into a watch will decide its smoothness and precision.
 Some enthusiasts prefer mechanical movement watches because of their love of tradition and the intricate craft and designing that is into making them. For these lovers, owning a mechanical watch isn't just about reading a clock; it's an approach to express their thankfulness for history, refinement, and craftsmanship.
 
 **Pros of Mechanical Watches**
-No battery required - Since a mechanical watch is controlled by a mainspring that is hand wound, you'll never need to go to a watch specialist to replace a battery. At the point when the watch quits ticking, simply it means time to wind it.
-Smooth hand movement - For certain people, a harmonious clearing movement on the second hand is more stylishly satisfying than the "tick" of quartz watches. On the off chance that that is imperative to you, go with a mechanical watch.
-Character - The building and work that goes into a mechanical watch are amazing. Inside your watchcase are minute spring and gears that work together to show you the time. Of course, nobody, for the most part, observes it, yet that is a piece of the appeal; a watchmaker has put in a long period consummating work that is not visible. If you acknowledge craftsmanship, consider adding a mechanical watches to your collection.
-Sense of touch - For somewhere in the range of, one of the interests of a mechanical watch is that the proprietor must hand-wind it to keep it working. There's something about the custom of winding your watch toward the day's end that interfaces you more with time.
+**No battery required:** Since a mechanical watch is controlled by a mainspring that is hand wound, you'll never need to go to a watch specialist to replace a battery. At the point when the watch quits ticking, simply it means time to wind it.  
+
+**Smooth hand movement:** or certain people, a harmonious clearing movement on the second hand is more stylishly satisfying than the "tick" of quartz watches. On the off chance that that is imperative to you, go with a mechanical watch.  
+
+**Character:** The building and work that goes into a mechanical watch are amazing. Inside your watchcase are minute spring and gears that work together to show you the time. Of course, nobody, for the most part, observes it, yet that is a piece of the appeal; a watchmaker has put in a long period consummating work that is not visible. If you acknowledge craftsmanship, consider adding a mechanical watches to your collection.  
+
+**Sense of touch:** For somewhere in the range of, one of the interests of a mechanical watch is that the proprietor must hand-wind it to keep it working. There's something about the custom of winding your watch toward the day's end that interfaces you more with time.
+
 Cons of Mechanical Watches:
-Regular winding - While most mechanical watch movement can stop in two days without winding, it's prescribed that you wind it once every day. As referenced over, a few people get delighted from this. However, others find it a disturbance.
-Very Delicate - Since a mechanical watch keeps time because of a gathering of complicated springs and apparatuses, its development can be very vulnerable to nature. Shock, Dust, Moisture, and magnets are the Four factors affecting the movement of the Mechanical Watches. Fortunately, most currently available watches are designed to withstand these negative factors. However, care should be taken. In case you're in living in places where you are highly vulnerable to such consideration, pick a quartz watch for everyday wear and can use the mechanical watch for dressier events.
+**Regular winding** While most mechanical watch movement can stop in two days without winding, it's prescribed that you wind it once every day. As referenced over, a few people get delighted from this. However, others find it a disturbance.
+**Very Delicate:** Since a mechanical watch keeps time because of a gathering of complicated springs and apparatuses, its development can be very vulnerable to nature. Shock, Dust, Moisture, and magnets are the Four factors affecting the movement of the Mechanical Watches. Fortunately, most currently available watches are designed to withstand these negative factors. However, care should be taken. In case you're in living in places where you are highly vulnerable to such consideration, pick a quartz watch for everyday wear and can use the mechanical watch for dressier events.
 Lacks Accuracy with age- While a well-created mechanical watch can keep time to 99.999% exactness (which is about +/ - 1 second), with age and utilize that precision begins to decrease. You need to visit watch specialist each 5 to 10 years for a check up to keep up its Accuracy. Likewise, not every mechanical watch are made equivalent; some are more precise than others. At long last, as referenced above, natural components can fall apart a mechanical watch's precision. On the off chance that carefully exact timekeeping is your top need, at that point you'll need to settle on a quartz watch.
 Expensive - All that precision, craftsmanship, Accuracy, and engineering that goes into a mechanical watch is going to cost you additional. While there are some tremendous mechanical watches in the sub-$500 pricing range, most are more than that — frequently a considerable amount more.
 
-Automatic
+#### Automatic
 Automatic watches are similar to mechanical — a mainspring controls them and utilizes springs and gears to move the watch hands — yet they don't require anyone to hand-wind the watch to keep it working. Here in automatic watches, your hand movement while you wear the watch does the winding. So, the watches are called "Automatic" watches" or "self-winding" watches.
 How does the self-wind happen inside the Automatic watches?
 There's a little weight inside the watch called a "rotor" that moves as your hand moves while you are wearing the watch. The weight is connected to the mainspring and winds the spring as it moves. To prevent over-winding, Automatic watches do have a slipping clutch device.
@@ -117,7 +123,7 @@ Use Watch Winder: Should be put away in a watch winder when not being used. Whil
 Less Precision- A well-made Automatic watch can b precise like a mechanical watch, yet it will lose some precision after some time and require check-ups.
 Expensive - Same problems are similar to mechanical watches. Craftsmanship and building are not shabby!
 
-Quartz
+#### Quartz
 In case you're similar to most usual people, the watch on your wrist right presently is presumably a quartz watch. There's a purpose behind that. Quartz watches have unbelievably precision and budget friendly.
 Unlike the watches as mentioned above, a quartz movement utilizes power from a tiny battery. The battery is used to send the electricity through a little quartz crystal, making the gem vibrate 32,768 times each second. The vibrations are estimated by a circuit, which turns the vibration into a pulse, which moves the second hand on the watch. Since quartz watches utilize electric pulse to move the second hand, they have a typical "tick, tick" movement. It will not be as smooth as a mechanical or Automatic watch.
 Since quartz developments depend on electricity and have less moving parts, they're considerably more precise and can withstand definitely to a greater degree of impacts than mechanical or Automatic watches. It's hence that most "field" and "sports" watches are utilizing a quartz movement.
@@ -128,11 +134,11 @@ Less Maintainance - Other than changing the battery consistently, there's little
 Long Life - Since they have few moving parts, a quartz watch can "take keep ticking and continue ticking." It's not vulnerable to the Four negative factors of the Watch Apocalypse. In case you're in an occupation that requires a great deal of harsh and messy work, you should need to consider a quartz development watch for regular wear.
 Reasonable Pricing - You can get quartz looks for a couple of bucks. Even though more pleasant looking ones can cost into the many dollars, they're quite often less expensive than mechanical and Automatic assortments.
 Cons of Quartz Watches:
-No smooth movement - The movement of the second hand on a quartz watch is not as smooth as that of a Automatic or mechanica watch.
+No smooth movement - The movement of the second hand on a quartz watch is not as smooth as that of a Automatic or Mechanical watch.
 Less sentimental - The most significant con of quartz watches is that they do not have the appeal, character, and sentiment of mechanical watches since they come up short on the history, specialized craftsmanship, and building such timepieces have.
 So you have decided the type of watch.
 
-Watch Type based on style
+### Watch Type based on style
 But what about the style? There is a wide variety of styles out there.
     • Dress watches
     • Field watches
@@ -143,7 +149,7 @@ But what about the style? There is a wide variety of styles out there.
     • Smartwatches.
 	• Pocket watch
 
-Dress Watch
+#### Dress Watch
 History/Pedigree/Personality: Birthed in the mid-twentieth century for wealthy men who wanted to wear their watch on their wrist, as opposed to in their pocket. The dress watch is about being simple and sophisticated; it's smooth instead of burdened. It will not appear flashy, and it attracts attention regarding itself in an elegant manner, and you can feel how it will compliment your get-up.
 Marked Features:
 Size: Usually meager (to make it simple to slip all through a dress shirt sleeve).
@@ -153,7 +159,7 @@ Band: Usually leather material. Although a few watch companies offer both metal 
 Complications: Little to none. Probably, moon display in addition to date.
 When to Wear: As the name suggests, you wear a dress watch for dressier, increasingly formal events like with a matching suit or a tuxedo (however, there's discussion regarding whether you ought to ever wear a watch at all with dark tie). Be that as it may, you can likewise wear a dress watch with everything on down to sharp easygoing. It won't combine well with a shirt and pants.
 
-Field Watch
+#### Field Watch
 History/Pedigree/Personality: The field watch is known to be the relative of the WWI "trench watch," which was intended for officers who expected to organize assaults, read a clock in the dark, and withstand the rigors of the fight, and also looking great. Field watches keep on displaying a military vibe and are rough, functional, and long lasting.
 Mark Features:
 Size: Small to medium. Huge watches would act as a burden while you're doing fight in the battle, or business.
@@ -162,7 +168,8 @@ Case: Typically treated steel or once in while titanium (they should be robust, 
 Band: Leather or canvas band. Metal is rare and would scratch with the sort of harsh environment where the field watch is intended.
 Complications: Typically none, Usually the date is present.
 When to Wear: Field watches are very super flexible and can be worn on a wide range of experiences just as for ordinary wear or even business wear. So, it can include everything from pants and a shirt to a games coat and khakis. For men, particularly more youthful folks, who don't use suit all the time, a field watch is the most logical option one can go for; its easygoing, simple but rough style may be the best match to your way of life.
-Dive Watch
+
+#### Dive Watch
 History/Pedigree/Personality: After the field watch, a dive watch is presumably another unique watch amongst the most widely used watch types you see with men.
 Well, we need to thank Mr. James Bond for that. The well known 007 has been suiting a dive watch or something similar. In the early Bond films, it was a Rolex Submariner (which is the reason the jump watch are now and again called a "submariner"); at that point, Pierce Brosnan went for the Omega dive watch into Bond's timepiece of decision.
 As the name proposes, the dive watch was intended for people who spend a lot of time in and around water. Their essential USP is that these watches are water safe & resistant. The first introduction of what turned into the dive watch was the Rolex Oyster, which was presented during the 1930s. It had a case that was hermetically sealed; it was one among the water resistant watches available at that time.
@@ -177,8 +184,7 @@ Band: Usually Metal. They usually are longer than other watches' bands, as it ne
 Complications: Usually, the date is found.
 When to Wear: Even though the dive watch was meant for submerged use, it can be used for varieties of ordinary wear. You can wear it with your business wear or casual wear, and formal wear too. Also, if you intend to take style tips from James Bond, you can even wear a dive watch with a tuxedo.
 
-
-Aviator/Pilot Watch
+#### Aviator/Pilot Watch
 History/Pedigree/Personality: Wristwatches is a compulsory gear for flight since the beginning of flying. The first men's watch made explicit for the pilot was Loius Cartier in the year 1904.
 After a few decades, watchmakers wanted to simplify the method of timekeeping for the pilots by including chronographs in their design. Chronographs were historically installed in planes and were used for deciding the speed, calculate fuel utilization, etc. The first chronograph watch was made by Breitling - A Swiss company in the year 1940.
 Marked Features: The pilot watch does not have a particular, firm style, unlike other category men's watch. The highlights will vary extensively. We will see the kind of highlights that an average pilot watch would have:
@@ -210,7 +216,7 @@ What specific features do you demand of your watch?
     • Do you need time zones throughout the world?
     • Do you need temperature?
 
-Complications
+#### Complications
 
 An essential watch tells you the time.
 Many wristwatches in the market come with little special features like displaying the date or the moon phase. These features are known as "complications."
@@ -239,14 +245,14 @@ But by doing that you've narrowed down the selection and becomes easier to find 
 
 ## Options while choosing your budget
 
-Old vs. New watch
+### Old vs. New watch
 If you have decided to go for a new watch: You are bound to have no problem.
 A new watch comes with a warranty.
 You want to impress the people around you with your new watch story. This is the main reason many people spend on expensive watches.
 Sometimes one may prefer to go for a luxury watch, but due to money constraints can opt in for a used watch which may be a few years old. You can get a good deal in the used market.
 Some of the problems that you might face with the used watch are that it may have some mechanical issues. Probably, a missing part that might be visible while buying it. If you are quite good at knowing about watches, you can settle in for a used watch and can find a fantastic deal while you buy them.
 
-Budget
+### Budget
 So now let's talk about money money money.
 What is your budget you've got to have a budget? Yes, and everyone has a budget.
 Here is a simple chart that might give you a brief idea of what you watch you might for your budget.
@@ -255,14 +261,14 @@ Price     Range & Material     Manufacturer
 1000 to 10000     Made with precious metal     High reputation
 10000     Precious stones & Limited gold edition & high reputation
 
-Personal Use Vs. investment
+### Personal Use Vs. investment
 If you have decided to buy a watch for your personal use, then you can opt in to play with emotions a lot. It can cost a few more bucks and be least bothered about the resale value.
 In case, if you are interested in watch flipping and making money: You need to be a lot more careful and make sure you know what you are going to do. Many people end up losing their money, and only a few make good money out of it.
 
-Checklist while buying
+## Checklist while buying
 Now we have a check list to consider while you are in the verge of buying a watch…Lets have a closer look at the individual parts.
 
-## Picking the Right sized Watch For Your Hand Size
+### Picking the Right sized Watch For Your Hand Size
 You also need to consider how proportional the watch is to your hand and wrist.
 If it appears bigger for your wrist, it might look awkward and larger. If it is small, it may appear as if you are wearing a women's watch.
 Simple calculation
@@ -274,23 +280,24 @@ The best approach is to wear the watch and test the look. Ask your family and fr
 If you still feel that you need to go with the bigger ones - proceed. You are bound to flaunt and proclaim the world what is essential for you.
 
 
-Watch Glass
+### Watch Glass
 Now let's talk about the watches glass.
 You're going to see mineral glass which is OK
 you're going to see excellent sapphire crystal.
 And then on the best, you're going to see some antique reflective coating. That's important because what you don't want is look at the time all of a sudden the sun's bouncing right off there You want to see the time when you look at your watch.
 
-Weight
+### Weight
 Now let's talk about weight, and there isn't a right answer here because on a functional performance watch like this I want something lightweight I'm going to take this on a 50-mile hike I want. I don't want something too heavy but on a watch that is made from a precious material such as gold such as platinum. I wanted to weigh more than a metal watch that is a sign of quality.
 
-Illumination
+### Illumination  
+
 Next up, let's talk about illumination. If you need to be able to read the time at night you want to make sure that your light works appropriately and it lights up, and you can read, and not all watches are going to have lights, but a lot of them are going to have illuminated, and you want to look at OK. Is it raised and again turn off the lights look at it in the dark after you've exposed it some light and look at how it reacts?
 
-Clasp
+### Clasp
 
 Clasps can be majorly classified as
-Deployant clasps
-Pin buckles
++ Deployant clasps
++ Pin buckles
 
 Deployant clasps are usually seen on metal watches, while pin buckles are more frequently seen on leather and rubber watches.
 
@@ -298,28 +305,25 @@ Deployant clasps are considered to be more safer. Even if the clasp opens while 
 
 But all of them have something in common – they are considered safer, because even if they open up while you’re wearing your watch, it won’t fall off your wrist. Which can’t be said for regular buckles; if a tang buckle comes undone, your watch is going to hit the ground faster than you can say “tang”.
 
-
-
-
-Watch Case
+### Watch Case
 Now let's talk about the case the watch of the case the watch is going to be the home of the movement, and you want to make sure that that case looks clean. You want to look at actually the finishing on that case. I can tell you a case that has been finished very well, that is an excellent sign of good quality.
 
-Watch-Material
+### Watch-Material
 Now let's talk about materials watches come in a wide variety of materials you're going to see and made from steel with a bit of leather and different qualities of leather.
 You're going to see them with higher quality steel all of a sudden you're going to start to see with white gold you're going to see them with a mix of steel with gold, and even specific goals that are specific to the actual brand are gems.
 
-Brands vs. Non-Brand
+### Brands vs. Non-Brand
 Brands convey a brand story. Any watch collector will tell you about their most favorite watch, along with the brand story. Some of the brands have excellent quality control, while some others have an average level. This might be a deciding factor for collectors while making money during re-sell.
 
-Official Seals
+### Official Seals
 Let's talk about official seals. So the main one you're going to see out there is the seal of Geneva. So this is a certification of quality in origin.
 Now, this seal is applied to the movements of specific watches, and it's a big deal. There's Swiss law that ensures that it's stringent and they've got to follow all of these exact rules and stuff.  
 Now just because a high-end watch doesn't have the seal, Geneva does not mean it's terrible, but it is something that if you've got it. That's a good thing.
 
-Where do you live
+### Where do you live
 Next, up Where do you live? Do you have access to high-end watches that you can try on? You can see what they look like on your wrist. If you live in New York, Chicago or over in Switzerland. It is good for you. You can walk into a lot of stores, and you can see what those watches look like on your wrist. And that's important, especially when you're spending a lot of money.
 So what do you do if you live in a small town? I know I've got this problem. So what I do is when I'm traveling I always make it a point to stop in and check out the stores in that city, so I'm Chicago. I have a store I go check out when I'm in London. I number of high stores to go check out. So you want to play a little bit of your travel. You want to find a way to get into those stores to try on the watches.
 
-## Retail Vs. Online
+#### Retail Vs. Online
 Next up, let's talk about how you're going to buy. So if you're going to buy directly from an authorized dealer or the manufacturer then that's great you're going to pay a higher price. But what you're going to get is satisfaction knowing you've got a warranty directly with them.
 Now there is the online market or gray markets. It is going to be Amazon or eBay or any other e-commerce site  who is not the manufacturer or an authorized dealer? The key thing here to understand is if you buy your watch from an authorized dealer, you can go directly to the manufacturer for your warranty. If you buy it through Amazon, you've got to go through Amazon for your warranty.
