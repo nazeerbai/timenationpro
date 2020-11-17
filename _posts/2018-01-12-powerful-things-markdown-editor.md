@@ -15,7 +15,8 @@ featured: true
 	- [Reference lists](#reference-lists)
 	- [Full HTML](#full-html)
 
-<!-- /TOC -->
+<!-- /TOC --> TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
 There are lots of powerful things you can do with the Markdown editor
 
 If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
@@ -30,6 +31,33 @@ As well as bold and italics, you can also use some other special formatting in M
 + ~~strike through~~
 + ==highlight==
 + \*escaped characters\*
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Super Hero</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Peter</td>
+            <td>Parker</td>
+            <td>Spiderman</td>
+        </tr>
+        <tr>
+            <td>Bruce</td>
+            <td>Wayne</td>
+            <td>Batman</td>
+        </tr>
+        <tr>
+            <td>Clark</td>
+            <td>Kent</td>
+            <td>Superman</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Writing code blocks
