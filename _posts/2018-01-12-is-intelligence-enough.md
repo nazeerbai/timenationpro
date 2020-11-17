@@ -12,11 +12,32 @@ Education must also train one for quick, resolute and effective thinking. To thi
 
 Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Super Hero</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Peter</td>
+            <td>Parker</td>
+            <td>Spiderman</td>
+        </tr>
+        <tr>
+            <td>Bruce</td>
+            <td>Wayne</td>
+            <td>Batman</td>
+        </tr>
+        <tr>
+            <td>Clark</td>
+            <td>Kent</td>
+            <td>Superman</td>
+        </tr>
+    </tbody>
+</table>
 
 The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
 
