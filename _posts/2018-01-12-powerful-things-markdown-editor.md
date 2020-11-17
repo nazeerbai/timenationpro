@@ -10,12 +10,14 @@ featured: true
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [main heading](#main-heading)
 	- [Special formatting](#special-formatting)
 	- [Writing code blocks](#writing-code-blocks)
 	- [Reference lists](#reference-lists)
 	- [Full HTML](#full-html)
 
 <!-- /TOC -->
+# main heading
 
 There are lots of powerful things you can do with the Markdown editor
 
