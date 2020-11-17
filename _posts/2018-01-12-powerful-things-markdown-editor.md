@@ -7,6 +7,15 @@ permalink: /:categories/:title/
 image: assets/images/4.jpg
 featured: true
 ---
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+	- [Special formatting](#special-formatting)
+	- [Writing code blocks](#writing-code-blocks)
+	- [Reference lists](#reference-lists)
+	- [Full HTML](#full-html)
+
+<!-- /TOC -->
 There are lots of powerful things you can do with the Markdown editor
 
 If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
