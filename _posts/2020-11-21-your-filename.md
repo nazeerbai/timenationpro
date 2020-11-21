@@ -219,11 +219,15 @@ The Fitbit versa office and extra feature for its female users. Mobile sar has s
 
   
 
- Smartwatch for sleep tracking
+ ### Smartwatch for sleep tracking
+ 
+ 
 
   
 
  Best Smartwatches for gamers
+ 
+ You can enjoy some portable gaming with smartwatches specially designed for gamers. These kind of smartwatches are made of high speed processors, powerful battery and featured AMOLED display which is stunning. These smartwatches helps you with extended gaming sessions. 
 
   
 
@@ -231,11 +235,7 @@ The Fitbit versa office and extra feature for its female users. Mobile sar has s
 
   
 
- Smartwatch for shoppers
-
-  
-
- ### payment feature in smartwatch
+ ### Smartwatch with Payments
 
  You can use your smart watches to pay for steps even if your mobile phone is switched off.NFC chips embedded in this smartwatches helps you in payment. 
 
