@@ -128,101 +128,56 @@ It allows to play videos. So Enjoying movies without holding mobile for long tim
 
 It is more useful to travelers. Rather than checking the maps in smart phones while driving and traveling, these wearable smart watches can guide you each and every step you take using its Geographical applications. 
 
- Sensors Used:
+You must ensure whether the following sensors are present in the smartwatch
 
-  
+**GPS** : As you all know, GPS in the bands provide maps applications. That is the location of wearables and it helps in calculating your run rate , the distance you walked and tracks activities.
 
- 16. Compass
+**Compass** : It helps to map. It has been functioned to make fitness bands or smart watches understand the directions.
 
- It helps to map. It has been functioned to make fitness bands or smart watches understand the directions.
+**Magnetometer**: It works with GPS to ensure the exact location of the wearables using coordinates. 
 
-  
-
-
-GPS 
-As you all know, GPS in the bands provide maps applications. That is the location of wearables and it helps in calculating your run rate , the distance you walked and tracks activities.
+**Altimeter**: Altimeter measures height or the changes in height. So it can calculate the calorie count using the calculation given by altimeter while climbing stairs or any other and going down the slopes.
 
 
-Magnetometer
-It works with GPS to ensure the exact location of the wearables using coordinates. 
+**Ambient light sensor**: The brightness of display light is managed using this ambient light sensor by tracking the light of ambiance. According to the light availability of your environment, this sensor balances the brightness of the display by itself. So it saves the battery life too.
 
- 10. Altimeter
+**UV sensor**: It senses the UV rays and its harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.
 
- Altimeter measures height or the changes in height. So it can calculate the calorie count using the calculation given by altimeter while climbing stairs or any other and going down the slopes.
+## Best Smartwatches for kids
 
+A concerned parents can track their child with the smart watch that is weared by the child when the child goes out of their sight.
 
-Ambient light sensor
-            The brightness of display light is managed using this ambient light sensor by tracking the light of ambiance. According to the light availability of your environment, this sensor balances the brightness of the display by itself. So it saves the battery life too.
+When you are going out or when you are in the kitchen or other work, you can't watch your children all the time. At the same time, you want to give your children their own space like allowing them to play in ground, park or outside the house etc., 
 
-  
+Let me tell you how a smart watch can be helpful in parenting. Let's see all the features , you should check it out while buying a smart watch for your children. 
 
- 13. UV sensor.
-
- It senses the UV rays and its harmfulness. If you are going on a sunny day, it will sense the UV and will indicate whether it is harmful or not.
-
-  
-
-  
-
- Best Smartwatches for kids
-
- • A concerned parents can track their child with the smart watch that is weared by the child when the child goes out of their sight.
-
-  
-
- When you are going out or when you are in the kitchen or other work, you can't watch your children all the time. At the same time, you want to give your children their own space like allowing them to play in ground, park or outside the house etc., 
-
- Let me tell you how a smart watch can be helpful in parenting. Let's see all the features , you should check it out while buying a smart watch for your children. 
-
- GPS Tracker :
+GPS Tracker
 
  All kids watches come with this GPS Tracker. Sometimes your children may go somewhere when you are not noticing them. The kids also don't know where are they right now? So To find them where they are, The GPS Tracker helps a lot. You can value it by how it avoids unpleasant moments, embarrassments in some cases. 
 
- To activate this facility, you just need to download certain mobile application ( App ) in your mobile phones and then you can connect your phone with your kids' smart watch. You can check where your child is just by checking your mobile phone. 
+To activate this facility, you just need to download certain mobile application ( App ) in your mobile phones and then you can connect your phone with your kids' smart watch. You can check where your child is just by checking your mobile phone. 
 
- Some apps provide Geo-fencing also. Do you want to know what is Geo-fencing? As its name says, you can set some graphical fences in the app. If your child crosses those points that you have fixed, The app will alert you instantly. So you can keep your child safe and secure. 
+**Geo-fencing**:Some apps provide Geo-fencing also. Do you want to know what is Geo-fencing? As its name says, you can set some graphical fences in the app. If your child crosses those points that you have fixed, The app will alert you instantly. So you can keep your child safe and secure. 
 
-  
+**SOS Alert**: It is indeed such an important features that you should check for while purchasing smart watches for your children.  If your child is in any dangers and they press or hold a button in their watch, it will send the alerts to you. The alert is transmitted to you using an app. 
 
- SOS Alert 
+**Emergency call**: You can input upto 3 or more phone numbers which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers  that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
 
- It is indeed such an important features that you should check for while purchasing smart watches for your children.  If your child is in any dangers and they press or hold a button in their watch, it will send the alerts to you. The alert is transmitted to you using an app. 
+## Best Smartwatch for Health and Fitness
 
- You can input upto 3 or more phone numbers which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers  that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
+If you are health-conscious, a smart watch is the right choice for you. It monitors your heart rate, pulse rate, sleep hours, calories and step count & distances. Please check for health related sensors right from activity tracker to stress monitor for your smart watch. 
 
-  
+Smartwatch makers are upgrading there smart work designs and features bye by integrating fitness trackers and monitor monitoring functions. Some of the  smart watches also have inbuilt pedometer for tracking steps and activity so that they need not depend upon your smartphone for activity tracking.
 
-  
+If you are planning to use a Smartwatch for workout you may consider fitness trackers that have Smartwatch like features such as Garmin vivoactive lines for the Fitbit versa. Both of these watch models has the option to change the watch face and read notifications. 
 
-  
+Some of the Smartwatch models have GPS in addition to the heart rate monitors. if you are interested in traveling running or biking you will  find them more attractive and can use it to track their distance and pace.
 
- Best Smartwatch for Health and Fitness
+## Best Smartwatch for Women
 
-  
+The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
 
-  
-
- if you are health-conscious, a smart watch is the right choice for you. It monitors your heart rate, pulse rate, sleep hours, calories and step count & distances. 
-
- please check for health related sensors right from activity tracker to stress monitor for your smart watch. 
-
- Smartwatch makers are upgrading there smart work designs and features bye by integrating fitness trackers and monitor monitoring functions. Some of the  smart watches also have inbuilt pedometer for tracking steps and activity so that they need not depend upon your smartphone for activity tracking.
-
- If you are planning to use a Smartwatch for workout you may consider fitness trackers that have Smartwatch like features such as Garmin vivoactive lines for the Fitbit versa. Both of these watch models has the option to change the watch face and read notifications. 
-
- The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
-
- Most of the wear operating system devices have a a Britain heart rate monitor. Why is this Kingdom we found that they are not as reliable as the fitness trackers found in Fitbit charge 4. The Apple watch heart rate sensor proved to be more accurate than its counterpart in our testing.
-
- Some of the Smartwatch models have GPS in addition to the heart rate monitors. if you are interested in traveling running or biking you will  find them more attractive and can use it to track their distance and pace.
-
-  
-
-  
-
- Smartwatches for Running
-
-  
+## Best Smartwatches for Sports
 
  For a sports person, smart watch can act as a coach to guide you by giving accurate running and walking rates and other indications. 
 
@@ -230,13 +185,9 @@ Ambient light sensor
 
   
 
- 3 axis accelerometer
+**3 axis accelerometer**: It is the most basic sensor in all the smartwatches and fitness bands. It tracks forward & backward movements, your body's position & orientation and analyzes the change in the speed. And also it senses gravity. 
 
- It is the most basic sensor in all the smartwatches and fitness bands. It tracks forward & backward movements, your body's position & orientation and analyzes the change in the speed. And also it senses gravity. 
-
-  
-
- 12. Gyroscope
+Gyroscope
 
  It measures the angular velocity. It determines your motion. So it can verify whether you are on a constant move or you are jogging in the same place. So it can keep other sensors' function accordingly.
 
