@@ -179,79 +179,37 @@ The Fitbit versa office and extra feature for its female users. Mobile sar has s
 
 ## Best Smartwatches for Sports
 
- For a sports person, smart watch can act as a coach to guide you by giving accurate running and walking rates and other indications. 
+Even though its importance has spread widely in the medical field, fitness bands have been used in Sports. Counting the steps while walking, calculating the distance covered while walking and running, monitoring heart beats rate while running are few of main uses of fitness bands. The sweat rate was initially examined through laboratory analysis only. But fitness bands tracks that also at ease. 
 
-  
-
-  
+For a sports person, smart watch can act as a coach to guide you by giving accurate running and walking rates and other indications using additional sensors as below: 
 
 **3 axis accelerometer**: It is the most basic sensor in all the smartwatches and fitness bands. It tracks forward & backward movements, your body's position & orientation and analyzes the change in the speed. And also it senses gravity. 
 
-Gyroscope
+**Gyroscope:** It measures the angular velocity. It determines your motion. So it can verify whether you are on a constant move or you are jogging in the same place. So it can keep other sensors' function accordingly.
 
- It measures the angular velocity. It determines your motion. So it can verify whether you are on a constant move or you are jogging in the same place. So it can keep other sensors' function accordingly.
+## Best Smartwatch for seniors
 
-  
+Tracking the heart rate, pulse rate, body temperature of seniors is convenient now using these wearable sensors. Before that, tracking these metrics of elderly with a specific time travel needs more manpower, equipments. And patients have to stay in hospital or they have to visit hospital in a time interval.  
 
- Even though its importance has spread widely in the medical field, fitness bands have been used in Sports. Counting the steps while walking, calculating the distance covered while walking and running, monitoring heart beats rate while running are few of main uses of fitness bands. The sweat rate was initially examined through laboratory analysis only. But fitness bands tracks that also at ease. 
+The invention of wearable activity trackers simplified these processes. The patient need not stay in hospital or need not visit hospital for measuring these metrics. Using wearables, the activities and all kinds of health oriented rates can be measured and tracked for every second. It is more useful to physicians for better understanding about patients & for diagnosis of diseases rather than metrics taken in a specific time interval. 
 
-  
+**Skin temperature sensor:** It tracks the body temperature. It indicates even slight change in the body temperature to alert you of falling sickness like fever and allergies. And also it helps in tracking menstrual phases.
 
- Smartwatch for seniors
+**Optical heart rate sensor:** It calculates the heart beats per minute. It measures light on the wrist. Heart puts blood into the artery when it beats. So the light sent on the wrist is reflected back with less light after reaching the blood vessels. In this manner, the optical heart rate sensor calculates heart beats per minute.
 
-  
+**ECG sensor:** It is an advanced sensor which is available in recently launched fitness bands and smart watches. It detects the minute electrical impulse that is released in every heart beats. Using the electrodes, fitness bands & smart watches detect this minute electrical signals.
 
- Tracking the heart rate, pulse rate, body temperature of patients is convenient now using these wearable sensors. Before that tracking these metrics of patients with a specific time travel needs more manpower, equipments. And patients have to stay in hospital or they have to visit hospital in a time interval.  
+**Bioimpedance sensor:** It sends a low amount of electricity on the skin to measure the resistance of the skin. Using the measurements of the resistance calculated, it presents heart rate, sleep rate, respiration rate and many more.
 
- The invention of wearable activity trackers simplified these processes. The patient need not stay in hospital or need not visit hospital for measuring these metrics. Using wearables, the activities and all kinds of health oriented rates can be measured and tracked for every second. It is more useful to physicians for better understanding about patients & for diagnosis of diseases rather than metrics taken in a specific time interval. 
+**Electrodermal activity sensor:** It is helpful to indicate whether you are in stress or not. It can find it using the measures of other sensors like heart rate sensor, skin temperature sensor and ECG. And also it tracks tiny electrical changes in the sweat to track the stress. So it will be useful to manage your stress.
 
-  
+**SpO2 monitor:** It measures the oxygen level using the color of blood. It traces the color change by the reflection of red and infrared light from blood through your wrist. 
 
+Now I hope, you can understand how fitness bands are very useful in health care industry and also in Sports & Fitness.
 
-Skin temperature sensor
-It tracks the body temperature. It indicates even slight change in the body temperature to alert you of falling sickness like fever and allergies. And also it helps in tracking menstrual phases.
+Smartwatches for women
 
-  
-
-
-Optical heart rate sensor 
- 
-
- It calculates the heart beats per minute. It measures light on the wrist. Heart puts blood into the artery when it beats. So the light sent on the wrist is reflected back with less light after reaching the blood vessels. In this manner, the optical heart rate sensor calculates heart beats per minute.
-
-
-ECG sensor
-It is an advanced sensor which is available in recently launched fitness bands and smart watches. It detects the minute electrical impulse that is released in every heart beats. Using the electrodes, fitness bands & smart watches detect this minute electrical signals.
-
-  
-
- 9. Bioimpedance sensor
-
-  It sends a low amount of electricity on the skin to measure the resistance of the skin. Using the measurements of the resistance calculated, it presents heart rate, sleep rate, respiration rate and many more.
-
-  
-
- 14. Electrodermal activity sensor
-
- It is helpful to indicate whether you are in stress or not. It can find it using the measures of other sensors like heart rate sensor, skin temperature sensor and ECG. And also it tracks tiny electrical changes in the sweat to track the stress. So it will be useful to manage your stress.
-
- 15. SpO2 monitor
-
- It measures the oxygen level using the color of blood. It traces the color change by the reflection of red and infrared light from blood through your wrist. 
-
-  
-
- Now I hope, you can understand how fitness bands are very useful in health care industry and also in Sports & Fitness.
-
-  
-
-  
-
- Smartwatches for women
-
-  
-
- The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
+The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
 
   
 
