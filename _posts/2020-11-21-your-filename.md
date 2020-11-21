@@ -213,13 +213,12 @@ The Fitbit versa office and extra feature for its female users. Mobile sar has s
 
 ## Best Smartwatch for sleep tracking
  
- 
 
   
 
 ## Best Smartwatches for gamers
  
- You can enjoy some portable gaming with smartwatches specially designed for gamers. These kind of smartwatches are made of high speed processors, powerful battery and featured AMOLED display which is stunning. These smartwatches helps you with extended gaming sessions. 
+You can enjoy some portable gaming with smartwatches specially designed for gamers. These kind of smartwatches are made of high speed processors, powerful battery and featured AMOLED display which is stunning. These smartwatches helps you with extended gaming sessions. 
 
   
 
