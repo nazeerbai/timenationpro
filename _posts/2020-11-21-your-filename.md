@@ -101,8 +101,7 @@ Some smart watches is designed with inbuilt cameras. You can shoot from your wri
  You must check out whether the smartwatch has the following sensors to support video conference:
 
 - Smartwatch Camera
-- -  Voice sensor
-
+- Voice sensor
 
 You can find out your mobile if you place it anywhere and want to find it out. These are very important to make it useful for your work life. 
 
@@ -212,31 +211,31 @@ Now I hope, you can understand how fitness bands are very useful in health care 
 The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
 
 ## Best Smartwatch for sleep tracking
- 
 
-  
+You have plenty of ways to track sleep, like:
+
+a monitor beside your bed
+device under your mattress
+smartwatch wearable device
+
+Good quality sleep is linked to health, mental wellbeing and even avoiding serious long-term ilnesses, so using a sleep monitor to check you're getting enough rest is a no-brainer.
 
 ## Best Smartwatches for gamers
  
 You can enjoy some portable gaming with smartwatches specially designed for gamers. These kind of smartwatches are made of high speed processors, powerful battery and featured AMOLED display which is stunning. These smartwatches helps you with extended gaming sessions. 
 
-  
+Some brands has released kids' wearables with Games. It is definitely attractive to the kids. It can entertain your kids. The price range differs according to the gaming feature level. 
 
- Some brands has released kids' wearables with Games. It is definitely attractive to the kids. It can entertain your kids. The price range differs according to the gaming feature level. 
 
-  
+### Smartwatch with Payments
 
- ### Smartwatch with Payments
+You can use your smart watches to pay for steps even if your mobile phone is switched off.NFC chips embedded in this smartwatches helps you in payment. 
 
- You can use your smart watches to pay for steps even if your mobile phone is switched off.NFC chips embedded in this smartwatches helps you in payment. 
+Apple pay is enabled in all the Apple watch models. Apple pay works even if you do not have your phone with you or if you do not have a LTE connection.
 
- Apple pay is enabled in all the Apple watch models. Apple pay works even if you do not have your phone with you or if you do not have a LTE connection.
+ Android pay is supported in wear OS watches dance like LG watch sport Huawei watch 2 you and tag heuer connected modular 45. Samsung pay also has its own mobile payment system and it works in all of its newest models.
 
- Android pay is supported in wear OS watches dance like LG watch sport Huawei watch 2 you and tag heuer connected modular 45.
-
- Samsung pay also has its own mobile payment system and it works in all of its newest models.
-
- Evan fitness watches like Garmin and Fitbit have had mobile payments to the year latest Smartwatch collections too.
+Evan fitness watches like Garmin and Fitbit have had mobile payments to the year latest Smartwatch collections too.
 
   
 
