@@ -1,9 +1,7 @@
 ---
 published: false
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 # Smart watch buyer's guide: Everything you need to know
 Do you have an idea to buy a smart watch? Hold on!! Before that you need to understand about smart watches first of all. And then please be clear about your requirements for Smart watch. 
@@ -77,18 +75,18 @@ You must analyse and decide that what function and combination of of design I wi
 Even though laptops and smart phones are handheld devices.You can't hold laptops & smart phones all the time when you are doing other tasks also especially. So smart watches fill this gap by its wearability. Smart watches are light weight and compact. Wearable smart watches give more comfortability and flexibility to use. So you don't find any difficulty to wear this. 
 
 You can follow the below consideration to know what you want to do with smartwatches based on your profession or activities. These are few guidelines that might help you with the selection process.
-Best smart watches for working professionals
+
+## Best smart watches for working professionals
 
 When it comes to work and business, the smart watch has to excel at its functions rather than design and style. If you are doing any manual work, carrying mobiles is not possible. Smart watches fill this gap.
 
-Easy access to calls
+### Easy access to calls
 
 You can attend the phone calls through your smarwatches. You don't need to take your smart phone from your packet or bag. Smartwatches comes with dial pad and also syncing the contacts.In such cases you can make calls from your smartwatches. smart watches having call features will have built in LTE. Features like AT&T number sink and verizons number share lets you to use the same number on your watch and your mobile phone.
 
 You can operate it and call from your Smartwatch even if your mobile phone is turned off. You may have to pay for a separate data plan for your Smartwatch to which might cost around $10 per month in case if you want it to have the advantage of  calling option.
 
-
-View Message notification
+### View Message notification
 If you use smart watch, you can answer calls and can reply to messages and emails instantly. You can't miss important calls and emails.
 
 You can read your SMS and whatsapp messages received to your smartphone instantly. Likewise calls, you can send messages too. You can read e-mails and send emails from your smartwatch. 
@@ -96,37 +94,36 @@ Organize your tasks
 
 Smartwatchs have alert or reminders, calendar ( it can synchronize with Google calendar to remind you about all your meetings and other events)
 
-
-video conferencing
+### Video conferencing
 
 Some smart watches is designed with inbuilt cameras. You can shoot from your wrist itself. video calling for meeting purposes.
 
- You must check out whether the smartwatch has the following sensors to 
+ You must check out whether the smartwatch has the following sensors to support video conference:
 
- Smartwatch Camera
+- Smartwatch Camera
+- -  Voice sensor
 
- Voice sensor
 
 You can find out your mobile if you place it anywhere and want to find it out. These are very important to make it useful for your work life. 
 
- Best Smartwatches for Students
+## Best Smartwatches for Students
 
- For students, you can look for certain features like activity tracker, interfacing smartphone, water proof for sure. If your budget is average, you can go with these features alone. 
+For students, you can look for certain features like activity tracker, interfacing smartphone, water proof for sure. If your budget is average, you can go with these features alone. 
 
 If you can spend a little more, some brands provide epaper facilities for taking notes. And another feature, you can specify while purchasing smart watches is silent vibrating alarms either for alarm or for notifications' purpose. When you are in class, this feature helps a lot. 
 
 College students who want to have fun, definitely are looking for a music player, camera etcThis feature adds price more when it gets added. 
 
- Students are concerned with fashion mostly. So the design and color of the smart watch are also important for them. There are many brands with sleek and stylish looks and colors. 
+Students are concerned with fashion mostly. So the design and color of the smart watch are also important for them. There are many brands with sleek and stylish looks and colors. 
 
-Smartwatches for Entertainment:
+## Best Smartwatches for Entertainment
 
 Watching videos and movies on mobiles by holding it for a long time is not easy at all. But you can enjoy your music & movies without any effects.
 
 You can play audio songs / files on the go and enjoy your music using your wireless headsets.
 It allows to play videos. So Enjoying movies without holding mobile for long time is another flexible aspect of smart watches. 
 
- Smartwatches for Travellers
+## Smartwatches for Travellers
 
 
 It is more useful to travelers. Rather than checking the maps in smart phones while driving and traveling, these wearable smart watches can guide you each and every step you take using its Geographical applications. 
