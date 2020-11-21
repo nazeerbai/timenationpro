@@ -207,25 +207,17 @@ The invention of wearable activity trackers simplified these processes. The pati
 
 Now I hope, you can understand how fitness bands are very useful in health care industry and also in Sports & Fitness.
 
-Smartwatches for women
+### Best Smartwatches for women
 
 The Fitbit versa office and extra feature for its female users. Mobile sar has stability to record and log periods and its symptoms and also compare your period cycle against your health stats like activity and sleep.
 
-  
-
-
-
-  
-
-  
-
- ### Smartwatch for sleep tracking
+## Best Smartwatch for sleep tracking
  
  
 
   
 
- Best Smartwatches for gamers
+## Best Smartwatches for gamers
  
  You can enjoy some portable gaming with smartwatches specially designed for gamers. These kind of smartwatches are made of high speed processors, powerful battery and featured AMOLED display which is stunning. These smartwatches helps you with extended gaming sessions. 
 
