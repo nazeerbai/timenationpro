@@ -9,11 +9,27 @@ If you are not aware of how to buy a smartwatch and baffled with its intricate t
 
 Before getting into the nitty gritty details of smartwatch, let us go through some quick FAQs about smartwatch to get a basic idea about smartwatch.
 
-What is a Smartwatch?
+## What is a Smartwatch?
 
 Smartwatch is nothing but a Mini smartphone or a Mini-computer in this 21st century. Being connected with the body is the main quality which makes smartwatches standalone from smartphones and laptops. It gives you more mobility and flexibility while comparing with smartphones. 
 
-What is the history of smartwatch?
+## What is the history of smartwatch?
+A digital watch was introduced in history in 1972 for the first time by the Pulsar company. After that, another watch with memory was introduced in 1982 by the Seiko company.
+
+Along with computers, Seiko designed computers in the form of watches with external keyboard 1983 using wireless docking to transfer data from the keyboard to the wearable watch. Seiko released RC series watches. RC-1000 is the first wristwatch that can interface with a computer. 
+
+Casio also started to release computer watches in addition to its calculator watches. In the late 1980s, Casio and other companies released Game watches also.
+
+In 1994, a Wristwatch that can connect with PCs wirelessly was introduced. It was a Timex Datalink watch. It works on data by clicking with Microsoft schedule+ and outlook to create appointments & contacts.
+
+In Japan, Steve Mann released a Linux smartwatch in 1998. This watch is considered the first smartwatch because it had a graphics display. It came with a joystick-like device to input characters. It was marketed as an onHand PC in 2006.
+
+Finally, Samsung released the world's first smartphone, the SPH-WP10, having an antenna, LCD screen with integrated screen, and microphone.
+
+IBM launched a smartwatch with more memory & battery life with a fingerprint sensor in 2000. In collaboration with Citizen watch co., ventured 'watch pad.' 
+
+In the 2000s and 2010s, many smartwatches were launched with increased specifications by many companies like Samsung, Microsoft, Sony, Apple Inc.
+Apple smartwatch gained a reach from customers because of its design worldwide. 
 
 
 Click on the following infographic to know more about sales statistics on smartwatches:
@@ -36,12 +52,12 @@ For example, Fitness Band may not have a few features that are supported by smar
 
 Few models support Sports activities, and these smartwatches track the wearer's walking & running rate using the app inbuilt in the smartwatches. 
  
-### How Smartwatch makes a difference from standalone bands?
+## How Smartwatch makes a difference from standalone bands?
 Smartwatches have all the sensors of fitness bands. The only difference between the Smartwatch and the standalone watches is that smartwatches can be connected with smartphones and operated, whereas standalone watches can be operated independently.
 
-# Smartwatch Buying Guide: Quick Important Features to Know
+# Smartwatch Buying Guide: Quick Features to Consider before Buying
 
-### phone compatibility and operating system
+## phone compatibility and operating system
 
 The Operating system in smartwatches must suit your smartphone's OS also. Otherwise, you have to face some lack of functions. The Wear OS may not be attractive in its design, but its functionalities are highly recommendable. 
 Its speech-to-text features are very convenient to answer e-mails and texts with more comfortability. But these speech-to-text features of the wear OS won't work on the iPhone. That's why we insist you check the compatibility of your smartphone OS with the smartwatch OS. 
@@ -55,7 +71,7 @@ Open your smartphone browser and check the link to g.co/wearcheck
 In the case of Apple, the Apple Watch works only with iPhone. Open the Apple Watch app on the iPhone and find the watch OS app store. It is here you can install your favorite iOS watch version apps or find the latest ones. The app store features mini things like games, fitness tracking apps productivity apps like receive slack notifications or review Trello cards.
 The bottom line is that you must not buy a smartwatch until you know that it is compatible with your smartphone.
 
-### Smartwatches battery
+## Smartwatches battery
  
 And also, you need to consider the battery life of a smartwatch. Being a work professional, you will use the Smartwatch for an entire day. So purchasing a smartwatch with good battery life is very important. 
 Otherwise, it is not meaningful when it needs charging very often. You can do it with your smartphone alone. You don't need a smartwatch. So please be concerned about battery life when you go shopping for a smartwatch. 
@@ -66,9 +82,10 @@ Most color screen smartwatches tend to last for a day or two. You decide and con
 Smartwatches with voice capabilities will not have charge last long as expected. The charge of the Apple watch lasts around 18 hours.
 Wireless charging
 Some of these smartwatches like Samsung gear sport and apple watch has wireless charging feature. In order to charge these devices, you need not plug your device directly into a charger, but you can lay it on a charging puck.
-#### Proximity sensor
+
+### Proximity sensor
 The proximity sensor checks whether the wearable is connected with you or not. If you are not wearing it, it will turn on the display screen and background functions to save the battery. If you are wearing it, it will turn on the display screen.
-Smartwatch buying guide: App selection
+## Smartwatch buying guide: App selection
 Samsung Smartwatch models have hundreds or even thousands of AP currently.
 Apple watch consists of the most well-rounded applications till now. It consists of 20000 apps available, which has a capacity to do everything from controlling your smart lights and other home devices 92 the accent of ordering lunch out using seamless.
 
@@ -80,6 +97,12 @@ The same version of the watch with the ceramic case for design and variants caus
 You must analyze and decide what function and combination of design will suit you the best for your budget.
 
 #  Smartwatch Buying Guide: Why do you need a smartwatch?
+
+Inorder to explore the main question on why do you need a smartwatch? you have to answer 3 basic questions
+
+What is your main job or main activities that you spend in a day?
+What are the main things that you want to keep track of during the time you are on job or activity?
+
 Even though laptops and smartphones are handheld devices, you can't hold laptops & smartphones all the time when you are doing other tasks, also primarily. So smartwatches fill this gap by its wearability. Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. So you don't find it any difficult to wear this. 
 
 You can follow the below consideration to know what you want to do with smartwatches based on your profession or activities. These are a few guidelines that might help you with the selection process.
