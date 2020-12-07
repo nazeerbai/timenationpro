@@ -98,14 +98,27 @@ You must analyze and decide what function and combination of design will suit yo
 
 #  Smartwatch Buying Guide: Why do you need a smartwatch?
 
-Inorder to explore the main question on why do you need a smartwatch? you have to answer 3 basic questions
+Inorder to explore the main question on why do you need a smartwatch? you have to ask the following 3 basic questions to yourself.
 
 What is your main job or main activities that you spend in a day?
 What are the main things that you want to keep track of during the time you are on job or activity?
+What are the things that you find difficult to keep track?
 
-Even though laptops and smartphones are handheld devices, you can't hold laptops & smartphones all the time when you are doing other tasks, also primarily. So smartwatches fill this gap by its wearability. Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. So you don't find it any difficult to wear this. 
+Let me give you some examples..
 
-You can follow the below consideration to know what you want to do with smartwatches based on your profession or activities. These are a few guidelines that might help you with the selection process.
+Think about your occupation. 
+What is the main occupation that you have taken up?
+
+For example, let us consider you being a doctor. 
+You are carrying out an very critical operation along with your fellow doctors and suddenly you can hear you telephone ringing. You realise that its an emergency phone because you have allotted a special ringtone for such emergencies from your family member. You are surrounded with other doctors and you cannot reach your phone with gloves.
+
+Can you imagine the state of frustration that you might undergo?
+
+These are the times where smartwatches can help you out. 
+
+You may find it difficult to manage to hold laptops and smartphones all the time when you are doing other tasks. So smartwatches fill this gap by its wearability. Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. So you don't find it any difficult to wear this. 
+
+You can follow the below consideration to know what you want to do with smartwatches based on your profession or activities. These are a few guidelines that might help you with the buying process.
 
 ## Best smartwatches for working professionals
 
