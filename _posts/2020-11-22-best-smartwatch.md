@@ -3,30 +3,33 @@ published: false
 ---
 # Smartwatch buyer's guide: Everything you need to know
 
-Do you have an idea to buy a smartwatch? Hold on!! Before that, you need to understand about smartwatches first of all. And then please be clear about your requirements for Smartwatch. 
+You might be knowing about normal watch and its types and how to select them. But, buying smartwaches are entirely different because of the huge number of features and technical specifications available in these smartwatches which might be overwhelming as a beginner. 
+
+If you are not aware of how to buy a smartwatch and baffled with its intricate technical details then this buyer’s guide is for your rescue to ease things out. 
+
+Before getting into the nitty gritty details of smartwatch, let us go through some quick FAQs about smartwatch to get a basic idea about smartwatch.
+
+What is a Smartwatch?
 
 Smartwatch is nothing but a Mini smartphone or a Mini-computer in this 21st century. Being connected with the body is the main quality which makes smartwatches standalone from smartphones and laptops. It gives you more mobility and flexibility while comparing with smartphones. 
 
+What is the history of smartwatch?
 
-
-you need to keep the following two points in mind while choosing a smartwatch
-You need to have an overall idea of smartwatches. 
-Why do you need a smartwatch?
 
 Click on the following infographic to know more about sales statistics on smartwatches:
 
 Why do you think that the smartwatch sales volume is going up year on year?
 
-## Smartwatches Types
+## What are the types of Smartwatches?
  
 There are two kinds of smartwatches available in the market. 
 - Smartwatches connected with smartphones
 - Standalone smartwatches
 
-### Smartwatches connected with smartphones
+Smartwatches connected with smartphones
 Smartwatches that are connected with smartphones through Bluetooth serve as an interface to the smartphones. Through the touchscreen or buttons, the User can initiate or attend phone calls. And also, it enables users to access messages, e-mails, media. The User can enjoy music and can watch videos using wireless handsets also. So these kinds of smartwatches are dependent on smartphones except for displaying the time. 
  
-### Standalone smartWatches
+Standalone smartWatches
 Standalone Smartwatches are exclusively designed with sensors only. Wearable devices are designed with dedicated and accurate sensors mostly used in medical or healthcare, sports, and security forces. 
 
 For example, Fitness Band may not have a few features that are supported by smartwatches like calling functions, notification, etc. Fitness bands may have apps and sensors that process the body activities of the User. These come with its application that can track your heart rate, body temperature, etc., 
@@ -241,31 +244,3 @@ Apple pay is enabled in all the Apple Watch models. Apple pay works even if you 
  Android pay is supported in wear OS watches dance like LG watch sport Huawei watch two you and tag Heuer connected modular 45. Samsung pay also has its mobile payment system, and it works in all of its newest models.
 
 Evan fitness watches like Garmin and Fitbit have had mobile payments to the year's latest Smartwatch collections too.
-
-  
-
-  
-
-  
-
-  
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-          
-
