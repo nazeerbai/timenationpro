@@ -114,9 +114,7 @@ You are carrying out an very critical operation along with your fellow doctors a
 
 Can you imagine the state of frustration that you might undergo?
 
-These are the times where smartwatches can help you out. 
-
-You may find it difficult to manage to hold laptops and smartphones all the time when you are doing other tasks. So smartwatches fill this gap by its wearability. Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. So you don't find it any difficult to wear this. 
+These are the times where smartwatches can help you out. You may find it difficult to manage to hold laptops and smartphones all the time when you are on work. So smartwatches fill this gap by its wearability. Smartwatches are lightweight and compact. Wearable smartwatches give more comfortability and flexibility to use. So you don't find it any difficult to wear this. 
 
 You can follow the below consideration to know what you want to do with smartwatches based on your profession or activities. These are a few guidelines that might help you with the buying process.
 
@@ -140,24 +138,24 @@ Smartwatches have alert or reminders, calendar ( it can synchronize with Google 
 
 ### Video conferencing
 
-Some smartwatches are designed with inbuilt cameras. You can start shooting videos using a smartwatch from your wrist itself. Video calling for meeting purposes.
-
- You must check out whether the Smartwatch has the following sensors to support video conference:
+Some smartwatches are designed with inbuilt cameras. You can start video calling or shooting videos using a smartwatch from your wrist itself. You must check out whether the Smartwatch has the following sensors to support video calls or shoot videos:
 
 - Smartwatch Camera
 - Voice sensor
 
 You can find out your mobile if you place it anywhere and want to find it out. These are very important to make it useful for your work life. 
 
+**Top 3 Smartwatches for working professionals**
+
 ## Best Smartwatches for Students
 
-For students, you can look for specific features like activity tracker, interfacing smartphone, waterproof for sure. If your budget is average, you can go with these features alone. 
+If you are a student you may want to take track your classes, keep notification about your assignments and reminders, protection against rain you can look for specific features like activity tracker, interfacing smartphone, waterproof for sure. If your budget is average, you can go with these features alone. If you can spend a little more, some brands provide e-paper facilities for taking notes. 
 
-If you can spend a little more, some brands provide e-paper facilities for taking notes. And another feature you can specify while purchasing smartwatches is silent vibrating alarms either for alarm or for notifications' purposes. When you are in class, this feature helps a lot. 
+And another feature you can specify while purchasing smartwatches is silent vibrating alarms either for alarm or for notifications' purposes. When you are in class, this feature helps a lot. 
 
 College students who want to listen to music or podcast can use the music player, camera, etc. This feature adds more price when it gets added. 
 
-Students are concerned with fashion, mostly. So the design and color of the Smartwatch are also crucial for them. There are many brands with sleek and stylish looks and colors. 
+Students are concerned with fashion, mostly. So, if you are more concern on fashion, you must check whether the watch strap can be easily changed. You can buy watch straps with various colors and use them to match with your outfits. There are many brands with sleek and stylish looks and colors. 
 
 ## Best Smartwatches for Entertainment
 
