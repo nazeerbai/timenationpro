@@ -216,10 +216,9 @@ Top 3 smartwatch for women:
 
 Click here to find reviews on the Top 10 smartwatches for women:
 
-
 ## Best Smartwatches for Sports
 
-Even though its importance has spread widely in the medical field, fitness bands have been used in Sports. Counting the steps while walking, calculating the distance covered while walking and running, monitoring heartbeats rate while running are a few of the primary uses of fitness bands. The sweat rate was initially examined through laboratory analysis only. But fitness bands tracks that also at ease. 
+Even though its importance has spread widely in the medical field, fitness bands have been used in Sports. If you are into sports or athletics full time or part time, these are some of the examples where smartwatches which helps you  to counting the steps while walking/running, calculating the distance covered while walking and running, monitoring heartbeats rate while running etc. These are a few of the primary uses of fitness bands. Do you find it difficult to measure your sweatrate by hiring a laboratory and give you the test results? You can cut down time and stress by using fitness bands. 
 
 For a sports person, a smartwatch can act as a coach to guide you by giving accurate running and walking rates and other indications using additional sensors as below: 
 
