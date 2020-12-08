@@ -171,7 +171,7 @@ You must ensure whether the following sensors are present in the Smartwatch.
 
 **GPS**: As you all know, GPS in the bands provide maps applications. That is the wearable location, and it helps in calculating your run rate, the distance you walked, and track activities.
 
-**Compass**: It helps to map. It has been functioned to make fitness bands or smartwatches understand the directions.
+**Compass**: Compass helps in finding directions in smartwatches understand the directions.
 
 **Magnetometer**: It works with GPS to ensure the exact location of the wearables using coordinates. 
 
