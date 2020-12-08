@@ -232,7 +232,7 @@ Do you have elderly people at your home? You might be finding it difficult to ta
 
 The invention of wearable activity trackers simplified these processes. The patient need not stay in the hospital or need not visit the hospital for measuring these metrics. If someone is using wearables, the activities, and all kinds of health-oriented rates can be measured and tracked for every second. It is more useful for physicians to understand better patients & for diagnosis of diseases rather than metrics taken in a specific time interval. 
 
-**Skin temperature sensor:** It tracks the body temperature. It indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
+**Skin temperature sensor:** Are you feeling tired of taking out your thermometer from the rack and testing yourself or your family members to check their fever level? Buy a smartwatch that has skin temperature sensor that helps you to  tracks the body temperature. It indicates even a slight change in the body temperature to alert you of falling sickness like fever and allergies. And also, it helps in tracking menstrual phases.
 
 **Optical heart rate sensor:** It calculates the heartbeats per minute. It measures light on the wrist. The heart puts blood into the artery when it beats. So the light sent on the wrist is reflected with less light after reaching the blood vessels. In this manner, the optical heart rate sensor calculates heartbeats per minute.
 
