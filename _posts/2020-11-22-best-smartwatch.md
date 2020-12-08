@@ -194,7 +194,7 @@ To activate GPS tracking facility in your kids smartwatch, you need to download 
 
 **Geo-fencing**: Some apps provide Geo-fencing also. Do you want to know what Geofencing is? If your child crosses those points that you have fixed, The app will alert you instantly. So you can keep your child safe and secure. As its name says, you can set some graphical fences in the app. Smartwatches with Geo-fencing is a must for toddlers.
 
-**SOS Alert**: Do you have any kind of alert to know when you child is in danger? If your child is in any danger and kid can press or hold a button on their watch, it will send the alerts to your mobile phone or smartwatch through an application. It is indeed such an important feature that you should check for while purchasing smartwatches for your children.  
+**SOS Alert**: Do you currently have any kind of alert when your child is in danger? If your child is in any danger and kid can press or hold a button on their watch, it will send the alerts to your mobile phone or smartwatch through an application. It is indeed such an important feature that you should check for while purchasing smartwatches for your children.  
 
 **Emergency call**: You can input up to three or more phone numbers, which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
 
