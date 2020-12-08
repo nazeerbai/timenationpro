@@ -161,6 +161,8 @@ Students are concerned with fashion, mostly. So, if you are more concern on fash
 
 Do you watch movies and videos frequently and do your hands ache while holding your mobile phone or laptop for a long amount of time. No more hand aches. You can play audio songs/files on the go and enjoy your music connecting your wireless headsets to your smartwatches. 
 
+Top 3 Smarwatches suitable for entertainment are:
+
 ## Smartwatches for Travellers
 
 
