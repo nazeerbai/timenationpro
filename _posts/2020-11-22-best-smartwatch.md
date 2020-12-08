@@ -175,7 +175,7 @@ You must ensure whether the following sensors are present in the Smartwatch.
 
 **Magnetometer**: It works with GPS to ensure the exact location of the wearables using coordinates. 
 
-** Altimeter**: Altimeter measures height or the changes in altitude. So it can calculate the calorie count using the calculation given by Altimeter while climbing stairs or any other and going down the slopes.
+ **Altimeter**: Altimeter measures height or the changes in altitude. So it can calculate the calorie count using the calculation given by Altimeter while climbing stairs or any other and going down the slopes.
 
 
 **Ambient light sensor**: The brightness of display light is managed using this ambient light sensor by tracking the light of ambiance. According to the light availability of your environment, this sensor balances the display's brightness by itself. So it saves the battery life too.
