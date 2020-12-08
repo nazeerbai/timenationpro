@@ -184,18 +184,15 @@ You must ensure whether the following sensors are present in the Smartwatch.
 ## Best Smartwatches for kids
 
 Is your kid very mischivious and are you finding it difficult to monitor them? Do kids get out of sight often and go outside? Do you find it difficult when you are in kitchen or at office cannot watch your children all the time. AS a concerned parent, you can track your childs location and activites with  Smartwatches for kids. All you need to do is buy one and make sure your child wears it always.
-
- At the same time, you want to give your children their own space like allowing them to play in the ground, park or outside the house, etc., 
+You can provide your children with freedom to play in the ground, park or outside the house, etc., at the same time know their location and activities and have a safe feeling.
 
 Let me tell you how a smartwatch can be helpful in parenting. Let's see all the features; you should check it out while buying a smartwatch for your children. 
 
-GPS Tracker
+**GPS Tracker**: All kid's watches come with this GPS Tracker. Sometimes your children may go somewhere when you are not noticing them. The kids also don't know where are they right now? So to find them where they are, The GPS Tracker helps a lot. 
 
- All kid's watches come with this GPS Tracker. Sometimes your children may go somewhere when you are not noticing them. The kids also don't know where are they right now? So To find them where they are, The GPS Tracker helps a lot. You can value it by how it avoids unpleasant moments, embarrassments in some cases. 
+To activate GPS tracking facility in your kids smartwatch, you need to download a specific mobile application on your mobile phones, and then you can connect your phone with your kids' Smartwatch. You can check where your child is just by checking your mobile phone. 
 
-To activate this facility, you need to download a specific mobile application ( App ) on your mobile phones, and then you can connect your phone with your kids' Smartwatch. You can check where your child is just by checking your mobile phone. 
-
-**Geo-fencing**: Some apps provide Geo-fencing also. Do you want to know what Geofencing is? As its name says, you can set some graphical fences in the app. If your child crosses those points that you have fixed, The app will alert you instantly. So you can keep your child safe and secure. 
+**Geo-fencing**: Some apps provide Geo-fencing also. Do you want to know what Geofencing is? If your child crosses those points that you have fixed, The app will alert you instantly. So you can keep your child safe and secure. As its name says, you can set some graphical fences in the app. Smartwatches with Geo-fencing is a must for toddlers.
 
 **SOS Alert**: It is indeed such an important feature that you should check for while purchasing smartwatches for your children.  If your child is in any danger and they press or hold a button on their watch, it will send the alerts to you. The alert is transmitted to you using an app. 
 
