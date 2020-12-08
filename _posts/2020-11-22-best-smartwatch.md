@@ -222,9 +222,9 @@ Even though its importance has spread widely in the medical field, fitness bands
 
 For a sports person, a smartwatch can act as a coach to guide you by giving accurate running and walking rates and other indications using additional sensors as below: 
 
-**3 axis accelerometer**: It is the most basic sensor in all the smartwatches and fitness bands. It tracks forward & backward movements, your body's position & orientation, and analyzes the speed's change. And also, it senses gravity. 
+**3 axis accelerometer**: It is the most basic sensor in all the smartwatches and fitness bands. It tracks forward & backward movements, your body's position & orientation, and analyzes the speed's change.
 
-**Gyroscope:** It measures the angular velocity. It determines your motion. So it can verify whether you are on a constant move or are jogging in the same place. So it can keep other sensors' function accordingly.
+**Gyroscope:** It measures the angular velocity. It determines your motion. So it can verify whether you are on a constant move or are jogging in the same pace.
 
 ## Best Smartwatch for seniors
 
