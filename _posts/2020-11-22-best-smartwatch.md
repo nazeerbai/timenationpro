@@ -165,8 +165,7 @@ Top 3 Smarwatches suitable for entertainment are:
 
 ## Smartwatches for Travellers
 
-
-It is more useful for travelers. Rather than checking the maps in smartphones while driving and traveling, these wearable smartwatches can guide you every step you take using its Geographical applications. 
+Do you find it difficult to hold your mobile phone for refering maps and reach the destination? Rather than checking the maps in smartphones while driving and traveling, these wearable smartwatches can guide you every step you take using its Geographical applications. 
 
 You must ensure whether the following sensors are present in the Smartwatch.
 
