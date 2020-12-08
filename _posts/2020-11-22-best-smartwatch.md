@@ -159,10 +159,7 @@ Students are concerned with fashion, mostly. So, if you are more concern on fash
 
 ## Best Smartwatches for Entertainment
 
-Do you watch movies and videos frequently and do your hands ache while holding your mobile phone or laptop for a long amount of time. Watching videos and movies on mobiles by holding them for a long time is not easy at all. But you can enjoy your music & movies without any effects.
-
-You can play audio songs/files on the go and enjoy your music using your wireless headsets.
-It allows playing videos. So Enjoying movies without holding mobile for a long time is another flexible aspect of smartwatches. 
+Do you watch movies and videos frequently and do your hands ache while holding your mobile phone or laptop for a long amount of time. No more hand aches. You can play audio songs/files on the go and enjoy your music connecting your wireless headsets to your smartwatches. 
 
 ## Smartwatches for Travellers
 
