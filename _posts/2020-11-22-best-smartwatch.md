@@ -177,14 +177,13 @@ You must ensure whether the following sensors are present in the Smartwatch.
 
  **Altimeter**: Altimeter measures height or the changes in altitude. So it can calculate the calorie count using the calculation given by Altimeter while climbing stairs or any other and going down the slopes.
 
-
 **Ambient light sensor**: The brightness of display light is managed using this ambient light sensor by tracking the light of ambiance. According to the light availability of your environment, this sensor balances the display's brightness by itself. So it saves the battery life too.
 
 **UV sensor**: It senses the UV rays from the sun for the day. If you are going on a sunny day, it will feel the UV and indicate it is harmful.
 
 ## Best Smartwatches for kids
 
-A concerned parent can track their child with the Smartwatch that the child is worn when they go out of their sight.
+Is your kid very mischivious and are you finding it difficult to monitor them? Do kids get out of sight often? AS a concerned parent, you can track their child with the Smartwatch. All you need to do is buy one and make sure your child wears it always.
 
 When you are going out or in the kitchen or other work, you can't watch your children all the time. At the same time, you want to give your children their own space like allowing them to play in the ground, park or outside the house, etc., 
 
