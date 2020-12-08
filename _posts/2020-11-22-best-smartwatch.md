@@ -196,11 +196,11 @@ To activate GPS tracking facility in your kids smartwatch, you need to download 
 
 **SOS Alert**: Do you currently have any kind of alert when your child is in danger? If your child is in any danger and kid can press or hold a button on their watch, it will send the alerts to your mobile phone or smartwatch through an application. It is indeed such an important feature that you should check for while purchasing smartwatches for your children.
 
-**Emergency call**: You can input up to three or more phone numbers, which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
+**Emergency call option**: You can input up to three or more phone numbers, which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
 
 ## Best Smartwatch for Health and Fitness
 
-If you are health-conscious, a smartwatch is a right choice for you. It monitors your heart rate, pulse rate, sleep hours, calories, and step count & distances. Please check for health-related sensors right from an activity tracker to a stress monitor for your Smartwatch. 
+Do you find it difficult to keep a track of your health indicators? Are you inclined towards spending on costly machines to track your health indicators like heart rate, pulse rate, sleep hours, calories, and step count & distances etc? Cut down stress and money spent on costly machines by investing in a smartwatch.  It monitors all the health indicators listed above. Please check the list of health-related sensors right from an activity tracker to a stress monitor for your Smartwatch. 
 
 Smartwatch makers upgrade their smart work designs and feature goodbye by integrating fitness trackers and monitoring functions. Some smartwatches also have an inbuilt pedometer for tracking steps and activity so that they need not depend upon your smartphone for activity tracking.
 
