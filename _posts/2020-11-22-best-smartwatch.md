@@ -198,7 +198,7 @@ To activate GPS tracking facility in your kids smartwatch, you need to download 
 
 **Emergency call option**: You can input up to three or more phone numbers, which should be called on any emergency of your children. This SOS will initiate emergency calls to all the emergency numbers that you have saved. It will keep on calling until the call is answered. If you miss the call to pick, other people whose phone numbers that you have given in the app can pick the call and save the child. 
 
-## Best Smartwatch for Health and Fitness
+## Best Smartwatch for Health and Fitness Freaks
 
 Do you find it difficult to keep a track of your health indicators? Are you inclined towards spending on costly machines to track your health indicators like heart rate, pulse rate, sleep hours, calories, and step count & distances etc? Cut down stress and money spent on costly machines by investing in a smartwatch.  It monitors all the health indicators listed above. Please check the list of health-related sensors right from an activity tracker to a stress monitor for your Smartwatch. 
 
