@@ -183,9 +183,9 @@ You must ensure whether the following sensors are present in the Smartwatch.
 
 ## Best Smartwatches for kids
 
-Is your kid very mischivious and are you finding it difficult to monitor them? Do kids get out of sight often? AS a concerned parent, you can track their child with the Smartwatch. All you need to do is buy one and make sure your child wears it always.
+Is your kid very mischivious and are you finding it difficult to monitor them? Do kids get out of sight often and go outside? Do you find it difficult when you are in kitchen or at office cannot watch your children all the time. AS a concerned parent, you can track your childs location and activites with  Smartwatches for kids. All you need to do is buy one and make sure your child wears it always.
 
-When you are going out or in the kitchen or other work, you can't watch your children all the time. At the same time, you want to give your children their own space like allowing them to play in the ground, park or outside the house, etc., 
+ At the same time, you want to give your children their own space like allowing them to play in the ground, park or outside the house, etc., 
 
 Let me tell you how a smartwatch can be helpful in parenting. Let's see all the features; you should check it out while buying a smartwatch for your children. 
 
