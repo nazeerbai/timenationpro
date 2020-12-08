@@ -210,7 +210,12 @@ Some of the Smartwatch models have GPS in addition to the heart rate monitors. I
 
 ## Best Smartwatch for Women
 
-The Fitbit versa office and extra features for its female users. The mobile car has the stability to record and log periods and their symptoms and also compare your period cycle against your health stats like activity and sleep.
+As a women re you a busy women finding it difficult to track how many hours you have slept? Is your stress going high due to daily home chores and office routines? Are you finding it difficult to keep a watch on your periods? The smartwatch for women helps you solve all the above. The smartwatch has the ability to record and log periods and their symptoms and also compare your period cycle against your health stats like activity and sleep.
+
+Top 3 smartwatch for women:
+
+Click here to find reviews on the Top 10 smartwatches for women:
+
 
 ## Best Smartwatches for Sports
 
